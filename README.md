@@ -12,3 +12,6 @@
 <hr>
 <h3>OVERVIEW</h3>
   <p>Visão Geral</p>
+<hr>
+<h3>ISSUE</h3>
+  <p>Questão, assunto (não resolvido)</p>
