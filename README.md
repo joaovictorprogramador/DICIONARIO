@@ -3,3 +3,6 @@
 
 <h3>COMMIT</h3>
   <p>Confirmar (ou conformidade)</p>
+<hr>
+<h3>README</h3>
+  <p>Leia-me</p>
