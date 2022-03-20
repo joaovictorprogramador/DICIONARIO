@@ -3,21 +3,21 @@
 
 <h3>COMMIT</h3>
   <p>Confirmar (ou conformidade)</p>
-<hr>
+
 <h3>README</h3>
   <p>Leia-me</p>
-<hr>
+
 <h3>INSIGHT</h3>
   <p>"Estalo na mente"</p>
-<hr>
+
 <h3>OVERVIEW</h3>
   <p>Visão Geral</p>
-<hr>
+
 <h3>ISSUE</h3>
   <p>Questão, assunto (não resolvido)</p>
-<hr>
+
 <h3>MARKETPLACE</h3>
   <p>Shopping virtual</p>
-<hr>
+
 <h3>SETTING</h3>
   <p>Configuração</p>
