@@ -18,3 +18,6 @@
 <hr>
 <h3>MARKETPLACE</h3>
   <p>Shopping virtual</p>
+<hr>
+<h3>SETTING</h3>
+  <p>Configuração</p>
